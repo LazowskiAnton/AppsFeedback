@@ -12,6 +12,7 @@ body:
       label: App
       options:
         - LoupeSmith
+        - RulerSmith
     validations:
       required: true
   - type: input

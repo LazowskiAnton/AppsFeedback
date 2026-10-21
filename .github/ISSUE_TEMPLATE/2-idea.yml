@@ -12,6 +12,7 @@ body:
       label: App
       options:
         - LoupeSmith
+        - RulerSmith
         - A new app
     validations:
       required: true

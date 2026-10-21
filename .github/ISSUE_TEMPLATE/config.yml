@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://lazowskianton.github.io/AppsHub/
+    about: Features, settings and FAQ of every app, in 14 languages.
+  - name: Visual Studio extensions
+    url: https://github.com/LazowskiAnton/Feedback
+    about: Feedback for the SmithWorks Visual Studio extensions goes to their own repository.
